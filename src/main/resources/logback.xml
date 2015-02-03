@@ -29,8 +29,5 @@
     <logger name="org.apache.shiro" level="INFO"/>
     <logger name="com.stormpath" level="INFO"/>
     <logger name="com.foo.example" level="TRACE"/>
-    <logger name="com.foo" level="DEBUG"/>
-
-    <logger name="com.apache.shiro" level="DEBUG"/>
 
 </configuration>
