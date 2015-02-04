@@ -30,8 +30,4 @@
     <logger name="com.stormpath" level="INFO"/>
     <logger name="com.foo.example" level="TRACE"/>
 
-    <logger name="org.apache.shiro" level="INFO"/>
-    <logger name="com.stormpath" level="INFO"/>
-    <logger name="com.foo.example" level="TRACE"/>
-
 </configuration>
